@@ -1,0 +1,11 @@
+complete game avtivity withy full buttons
+randomize sample img
+create diff sample images panel
+create home and instructuions page
+change button shapes
+add timer
+add music and change game icon
+import.
+
+disable back button 
+create faster loops of same sample
